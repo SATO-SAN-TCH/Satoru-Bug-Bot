@@ -10,19 +10,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "242067712688"
-global.ownername = "Satoru"
+global.ownernomer = "242056717867"
+global.ownername = "𒆜🌹⃤ＩＬＵＭＩＮＡＴＩ🌹⃤𝔾.𝕣.𝕚.𝕞.𝕞.𒆜"
 global.ytname = "YT: SatoruTech"
 global.socialm = "GitHub: SatoruTech"
 global.location = "Congo-Brazzaville, Brazzaville, null"
 
-global.ownernumber = '242067712688'  //creator number
-global.ownername = 'SatoruTech' //owner name
-global.botname = 'Satoru-Bug-Bot' //name of the bot
+global.ownernumber = '242056717867'  //creator number
+global.ownername = '𒆜🌹⃤ＩＬＵＭＩＮＡＴＩ🌹⃤𝔾.𝕣.𝕚.𝕞.𝕞.𒆜' //owner name
+global.botname = '𒆜🌹⃤ＩＬＵＭＩＮＡＴＩ🌹⃤𝔾.𝕣.𝕚.𝕞.𝕞.𒆜-Bug-Bot' //name of the bot
 
 //sticker details
-global.packname = 'Satoru X Bot'
-global.author = 'SatoruTech'
+global.packname = '𒆜🌹⃤ＩＬＵＭＩＮＡＴＩ🌹⃤𝔾.𝕣.𝕚.𝕞.𝕞.𒆜 X Bot'
+global.author = '𒆜🌹⃤ＩＬＵＭＩＮＡＴＩ🌹⃤𝔾.𝕣.𝕚.𝕞.𝕞.𒆜'
 
 //console view/theme
 global.themeemoji = '🩵'
